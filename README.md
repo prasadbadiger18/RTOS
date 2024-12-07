@@ -1,4 +1,4 @@
-# RTOS Roadmap
+# RTOS Roadmap (Only important topics)
 
 
 Here’s a focused list of the most important RTOS topics every embedded software engineer should know:
